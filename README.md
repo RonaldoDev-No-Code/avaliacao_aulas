@@ -22,29 +22,60 @@
 * Aceitação: 4
 * Regular
 ### Aulas
-* Aula: 10 - Apresentação Seção Supabase
+* Aula: 9 - Apresentação Seção Supabase
 * Resumo: Imagem boa. Audio com pouco de chiado porem aceitavel 
+##
+* Aula: 10 - Supabase iniciando e intendendo
+* Resumo: Imagem boa. Audio com pouco de chiado porem aceitavel alguan vezes fica um pouco distante 
+e um barulho no tivesse mechido no microfone
 
-#### Sessão 4 titulo da sessão regular 3
-* 29 - titulo - resumo que
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
 
-#### Sessão 5 titulo da sessão regular 4
-* 34 - titulo - resumo
 
-#### Sessão 6 titulo da sessão regular 3
-* 29 - titulo - resumo que
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
 
-#### Sessão 7 titulo da sessão regular 4
-* 34 - titulo - resumo
 
-#### Sessão 8 titulo da sessão regular 3
-* 29 - titulo - resumo que
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
 
-#### Sessão 9 titulo da sessão regular 4
-* 34 - titulo - resumo
 
-#### Sessão 10 titulo da sessão regular 4
-* 34 - titulo - resumo
-
-#### Sessão 11 titulo da sessão regular 4
-* 34 - titulo - resumo
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
