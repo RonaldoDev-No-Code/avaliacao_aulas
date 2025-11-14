@@ -4,8 +4,8 @@
 #### -------------------------------------------------------------------------------------- ####
 
 #### Sessão 2 Conhecendo elementos e criando tela de perfil
-## Aceitação: 2
-## Regular
+* Aceitação: 2
+* Regular
 
 * Aula: 2 - Apresentação primeiro projeto com deploy 
 * Resumo: Imagem boa. Mais o audio muito ruim picado
