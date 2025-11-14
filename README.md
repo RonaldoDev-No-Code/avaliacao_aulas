@@ -28,6 +28,8 @@
 * Aula: 10 - Supabase iniciando e intendendo
 * Resumo: Imagem boa. Audio com pouco de chiado porem aceitavel alguan vezes fica um pouco distante 
 e um barulho no tivesse mechido no microfone
+#### --------------------------------------------------------------------------------------
+
 
 #### Sessão Nº titulo da sessão
 * Aceitação:
