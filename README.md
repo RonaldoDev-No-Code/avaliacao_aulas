@@ -18,9 +18,12 @@
 * Obs. Nessa aula expecifica achei as explicações muito rapidas nada que não der pra acompanhar mais falar um pouco mais lento 
 #### --------------------------------------------------------------------------------------
 
-#### Sessão 3 titulo da sessão regular 4
+### Sessão 3 Especial Supabase banco de dados online relacional
+* Aceitação: 4
+* Regular
+### Aulas
 * Aula: 10 - Apresentação Seção Supabase
-* Resumo: Imagem boa. Audio 
+* Resumo: Imagem boa. Audio com pouco de chiado porem aceitavel 
 
 #### Sessão 4 titulo da sessão regular 3
 * 29 - titulo - resumo que
