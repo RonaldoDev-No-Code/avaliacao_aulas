@@ -38,18 +38,21 @@
 #### --------------------------------------------------------------------------------------
 
 
-### Sessão Nº titulo da sessão ####
-* Aceitação:
-* Regular 
+### Sessão 4 Projeto CRUD App Tarefa ####
+* Aceitação: 4
+* Aceitavel 
 ### Aulas
-* Aula: nº - nome
-* Resumo: 
+* Aula: 26 - Iniciando projeto e criando input tarefa
+* Resumo: Imagem boa. Áudio Bom 
 ##
-* Aula: nº - nome
-* Resumo: 
+* Aula: 27 - Criando interface lista tarefas + footer
+* Resumo: Imagem boa. Áudio Bom
 ##
-* Aula: nº - nome
-* Resumo: 
+* Aula: 28 - Criando tabela no supabase
+* Resumo: Imagem boa. Áudio Bom
+
+* OBS. De todos as seções que avaliamos ate a gora e a que está 100%. 
+  Com um detalhe a interface no app acho que precisa melhorar mais está   top áudio imagem ton da voz show d+
 #### --------------------------------------------------------------------------------------
 
 
