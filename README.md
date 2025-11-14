@@ -28,30 +28,7 @@
 * Aula: 10 - Supabase iniciando e intendendo
 * Resumo: Imagem boa. Audio com pouco de chiado porem aceitavel alguan vezes fica um pouco distante 
 e um barulho no tivesse mechido no microfone
-#### --------------------------------------------------------------------------------------
-
-
-#### Sessão Nº titulo da sessão
-* Aceitação:
-* Regular 
-### Aulas
-* Aula: nº - nome
-* Resumo: 
 ##
-### Aulas
-* Aula: nº - nome
-* Resumo: 
-#### --------------------------------------------------------------------------------------
-
-
-#### Sessão Nº titulo da sessão
-* Aceitação:
-* Regular 
-### Aulas
-* Aula: nº - nome
-* Resumo: 
-##
-### Aulas
 * Aula: nº - nome
 * Resumo: 
 #### --------------------------------------------------------------------------------------
@@ -64,7 +41,9 @@ e um barulho no tivesse mechido no microfone
 * Aula: nº - nome
 * Resumo: 
 ##
-### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
 * Aula: nº - nome
 * Resumo: 
 #### --------------------------------------------------------------------------------------
@@ -77,7 +56,39 @@ e um barulho no tivesse mechido no microfone
 * Aula: nº - nome
 * Resumo: 
 ##
+* Aula: nº - nome
+* Resumo: 
+##
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
+
+
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
 ### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+* Aula: nº - nome
+* Resumo: 
+##
+* Aula: nº - nome
+* Resumo: 
+#### --------------------------------------------------------------------------------------
+
+
+#### Sessão Nº titulo da sessão
+* Aceitação:
+* Regular 
+### Aulas
+* Aula: nº - nome
+* Resumo: 
+##
+* Aula: nº - nome
+* Resumo: 
+##
 * Aula: nº - nome
 * Resumo: 
 #### --------------------------------------------------------------------------------------
