@@ -1,7 +1,7 @@
 # avaliacao_aulas
 #### Aceitação 1 a 4 --> Aceitável, regular, ruim, não dar esperar
 * Avaliação de aulas do curso de Flutterflow da Udemy Prof: Sebastião Rodrigo
-#### ---------------------------------------------------------------- ####
+#### -------------------------------------------------------------------------------------- ####
 
 #### Sessão 2 Conhecendo elementos e criando tela de perfil - Ruim 1
 * 2 - Apresentação primeiro projeto com deploy 
