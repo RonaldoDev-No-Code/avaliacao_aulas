@@ -28,10 +28,13 @@
 ##
 * Aula: 10 - Supabase iniciando e intendendo
 * Resumo: Imagem boa. Áudio com pouco de chiado porem aceitavel alguan vezes fica um pouco distante 
-e um barulho no tivesse mechido no microfone
+  e um barulho no tivesse mechido no microfone
 ##
 * Aula: 11 - Supabase primeiro contato
-* Resumo: Imagem boa. Áudio
+* Resumo: Imagem boa. Áudio também bom com alguns chiados ou algo encontando no microfone no final ficou um pouco picado 
+  mais porem aceitavel
+* Obs. Só é possivel ordena os campos na hora da criação da tabela depois de salva não é posivel fazer mais isso. 
+  Pode ordena com a tabela aberta mais ao fechar ela retorna a configuração inicial ou seja a ordem que foi salva as colunas. 
 #### --------------------------------------------------------------------------------------
 
 
