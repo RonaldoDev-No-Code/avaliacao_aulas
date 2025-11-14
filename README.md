@@ -3,7 +3,7 @@
 * Avaliação de aulas do curso de Flutterflow da Udemy Prof: Sebastião Rodrigo
 #### -------------------------------------------------------------------------------------- ####
 
-#### Sessão 2 Conhecendo elementos e criando tela de perfil
+### Sessão 2 Conhecendo elementos e criando tela de perfil
 * Aceitação: 2
 * Regular
 ### Aulas
