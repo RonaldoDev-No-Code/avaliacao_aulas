@@ -5,7 +5,7 @@
 
 #### Sessão 2 Conhecendo elementos e criando tela de perfil - Ruim 1
 * 2 - Apresentação primeiro projeto com deploy 
-* Resumo: Imagem boa mais o audio muito ruim picado e cortes
+* Resumo: Imagem boa mais o audio muito ruim picado e com cortes
 ##
 
 
