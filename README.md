@@ -80,7 +80,8 @@
 
 * Aula: 71 - Apresentação App Agendamento
 * Resumo: Imagem e àudio todos Bom otimos fluidos bem explicados e detalhados muito bom mesmo.
-
+*
+*
 * Aula: 72 - Estrutura inicial app agendamento
 * Resumo: Imagem e àudio todos Bom otimos fluidos bem explicados e detalhados muito bom mesmo.
 * Obs. Achei que nesse aula em expecifico o áudio ficou um pouco mais grave as vezes mas nada pre tenha que mudar não.
@@ -94,7 +95,8 @@
 
 * Aula: 87 - Conhecendo a estrutura do projeto app receitas
 * Resumo: Imagen e áudio muitos bom sema nada para mudar
-
+*
+*
 * Aula: 88 - Criando o slogan da home app receita
 * Resumo: Imagen e áudio muitos bom sema nada para mudar
 
