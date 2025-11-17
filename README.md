@@ -51,7 +51,7 @@
 * Aula: 28 - Criando tabela no supabase
 * Resumo: Imagem boa. Áudio Bom
 
-* OBS. De todos as seções que avaliamos ate a gora e a que está 100%. 
+* Obs. De todos as seções que avaliamos ate a gora e a que está 100%. 
   Com um detalhe a interface no app acho que precisa melhorar mais está   top áudio imagem ton da voz show d+
 #### --------------------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@
 * Aula: 52 - Criando tabela de produtos
 * Resumo: Imagem boa. Áudio fluido porem com pouco de chiado mais aceitavel da para acompanhar a aulas sem maiores problemas.
 
-*Obs. Fiz a mesma avaliação para as três primeiras aulas porque acha que não tem precisão se fazer algo muito urgente nesse modulo
+* Obs. Fiz a mesma avaliação para as três primeiras aulas porque acha que não tem precisão se fazer algo muito urgente nesse modulo
   acho que da para aconpanhar as aulas sem problema ouvio o áudio com outro fone aqui e quase não vir chiado no áudio.
 #### --------------------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@
 * Aula: 87 - Criando as categorias da home app receita
 * Resumo: Imagen e áudio muitos bom sema nada para mudar
 
-*Obs. Esse e mais um modulo que não tem nada para melhora em termos de imagem e áudio pode ser acompanhado de forma tranquila o curso No    futuro melhoras nas funcionalidades do app memso
+* Obs. Esse e mais um modulo que não tem nada para melhora em termos de imagem e áudio pode ser acompanhado de forma tranquila o curso No    futuro melhoras nas funcionalidades do app memso
 
 ### Sessão Nº titulo da sessão ####
 * Aceitação:
